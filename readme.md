@@ -14,3 +14,8 @@ Was used attention mechanism and toxic classification with BERT.
 ## Results
 
 The acc is 82%
+
+## Authors
+Alexandre Kalendarev
+Georgy Chernov
+
